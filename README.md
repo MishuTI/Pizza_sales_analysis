@@ -72,13 +72,15 @@ Comprehensive **sales performance analysis** of a pizza store using a real-world
 
 ---
 
-### 🧠 Skills Demonstrated
+## 🎯 Project Outcome
 
-- Advanced SQL querying (Aggregations, Window Functions, Date/Time functions)
-- Data Analysis & KPI Development
-- Business Intelligence Reporting
-- Trend Analysis and Pattern Recognition
-- Working with real-world transactional data
-- Cross-tool proficiency (Excel + PostgreSQL)
+This project demonstrates practical skills in:
+
+- Data cleaning
+- SQL analysis
+- Business KPI calculation
+- Dashboard design
+- Data visualization
+- Turning raw data into business insights
 
 
